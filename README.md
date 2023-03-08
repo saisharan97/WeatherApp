@@ -6,6 +6,8 @@ Responsive website.
 
 <br/>
 Desktop Version
+![image](https://user-images.githubusercontent.com/110760457/223720230-fe791616-3da4-41b8-8736-1f02cf155075.png)
+
 ![image](https://user-images.githubusercontent.com/110760457/223718895-d7c80bb9-77de-4ef6-bd77-a48270eb0ef9.png)
 <br/>
 Mobile Version
