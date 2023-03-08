@@ -1,4 +1,4 @@
-# WeatherApp
+# WeatherApp.
 Fetches and displays the weather information of user specified location.
 Used React.JS, Styled Components, The Fetch API, Javascript. 
 Uses Open Weather API for data.
